@@ -14,6 +14,7 @@ phases:
       - echo In pre_build phase..
       - echo Current directory is $CODEBUILD_SRC_DIR
       - ls -la
+      - cd exampleSite
   build:
     commands:
       - hugo -v
