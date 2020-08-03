@@ -16,7 +16,6 @@ phases:
       - ls -la
       - cd exampleSite/
       - pwd
-      - hugo --gc --themesDir ../..
   build:
     commands:
       - hugo -v

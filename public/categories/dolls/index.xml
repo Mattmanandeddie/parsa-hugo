@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dolls on Kym&#39;s Hugo Website</title>
+    <link>/categories/dolls/</link>
+    <description>Recent content in Dolls on Kym&#39;s Hugo Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 May 2020 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="/categories/dolls/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some Doll With Flowers</title>
+      <link>/smartdollwflowers/</link>
+      <pubDate>Thu, 14 May 2020 14:46:10 +0600</pubDate>
+      
+      <guid>/smartdollwflowers/</guid>
+      <description>Something 1 about dolls Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
