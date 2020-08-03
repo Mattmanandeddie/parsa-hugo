@@ -11,6 +11,6 @@ tags:
 - Finance
 
 ---
-Glory glory glory!
+## Glory glory glory!
 
 ![](/images/screenshot_20200608_180143.png)
