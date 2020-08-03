@@ -16,7 +16,7 @@ phases:
       - ls -la
   build:
     commands:
-      - hugo -v
+      - hugo -D
 artifacts:
   files:
     - '**/*'
