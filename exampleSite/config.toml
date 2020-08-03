@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.org"
+baseURL = "http://kymcherry-env-1.eba-bjpm9im6.us-east-2.elasticbeanstalk.com/"
 categories = []
 date = 2020-08-02T04:00:00Z
 description = ""
