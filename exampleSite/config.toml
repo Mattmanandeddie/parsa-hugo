@@ -1,4 +1,4 @@
-baseURL = "https://elegant-kirch-1dfdbe.netlify.app"
+baseURL = "http://website-env.eba-fr4cpv9n.us-east-2.elasticbeanstalk.com/"
 categories = []
 date = 2020-08-02T04:00:00Z
 description = ""
