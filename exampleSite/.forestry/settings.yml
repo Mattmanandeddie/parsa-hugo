@@ -5,24 +5,24 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: themes/parsa-hugo/exampleSite/content
+  path: exampleSite/content
   label: Post
   create: documents
   match: "*"
   templates:
   - post
 - type: directory
-  path: themes/parsa-hugo/exampleSite/content/about
+  path: exampleSite/content/about
   label: About
   create: none
   match: "*"
 - type: directory
-  path: themes/parsa-hugo/exampleSite/content/contact
+  path: exampleSite/content/contact
   label: Contact
   create: none
   match: "*"
 - type: directory
-  path: themes/parsa-hugo/exampleSite
+  path: exampleSite
   label: Configuration
   create: all
   match: "*.toml"
