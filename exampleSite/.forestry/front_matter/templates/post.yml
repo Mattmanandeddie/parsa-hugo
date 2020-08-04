@@ -8,13 +8,10 @@ fields:
 - type: datetime
   name: date
   label: date
-- name: img
+- name: image
   type: text
   config:
     required: false
-  label: image
-- type: file
-  name: image
   label: image
 - type: text
   name: description
@@ -32,6 +29,6 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
-- config.toml
-- content/new-post.md
-- content/title.md
+- exampleSite/config.toml
+- exampleSite/content/new-post.md
+- exampleSite/content/title.md
