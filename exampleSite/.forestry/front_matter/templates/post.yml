@@ -32,6 +32,6 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
-- exampleSite/config.toml
-- exampleSite/content/new-post.md
-- exampleSite/content/title.md
+- config.toml
+- content/new-post.md
+- content/title.md
