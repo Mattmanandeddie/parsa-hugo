@@ -1,56 +1,18 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-1.jpg"
-categories: 
-  - "Valuable Idea"
+title: My Dolls
+date: 2020-08-01T08:46:10+00:00
+description: This is meta description
+type: featured
+image: https://lh3.googleusercontent.com/Ymb4DroySRAdStW9ZVSt7gZAjrDVspZXYTTmPf8sgqy7Q2iSPEShGswfaiXgnZ04uai3o3yPP9XlYwnUMFVnHK8iXsztcyPMjQ3IWkiFgy5zyg1INyydelRlBwnWg4x6KcrvytN6w_Y61CDsT62SF67d5T9JWiQm4LwUIZe6r16KvqijxjzQbgcN6ZeA1GPRRPOU6d9uiaQYjzMrIATzSTUbfJMu7V1Ebnym4Bf_R3TnEbebEIY_rYKHlweHfAoM5GI1BTxgeOeNoWE6l_oxyF2i2Ew9YdqeAgq0mPe92P-dpHpGYFjavseVzR0Fli59xX_Ew46KPSjkj5ubut6NS9x2RZdH4KAUlcfne08HAATsurTtNQPAm7tJwrdzKuVnTHiKWzsDc1DgE44tQMzYTvoWlnoDvNMiiZv-NzMnghbNHhLf0QlUmyayp8dCaFHEms6HfEB3WIKv3J1NWI_wsj9tqoxSH8CnoS_YDARODsUOt1S3NrZymgsw_fhX7IIcvwZxKbUd6e0EaK8Uv4JcbgITzM4PhWPJGpUWDeB5avG0zH0rr67js0wpTw4rKycsjh_ZXWeDbYUUVTAymX9r2y5MPid3bGBUPcxZZKXCJJIJYSBAJiaGffCyQjB-PIEJPl_PFXWggKzgnO7W1uc3LOlTrtZa9zOzMc8WY2sU-Q4UxMkGmW_vouRcPH3BBA=w887-h665-no?authuser=0
+categories:
+- Valuable Idea
 tags:
-  - "Photos"
-  - "Finance"
+- Photos
+- Finance
+
 ---
+test text
 
+[Ymb4DroySRAdStW9ZVSt7gZAjrDVspZXYTTmPf8sgqy7Q2iSPEShGswfaiXgnZ04uai3o3yPP9XlYwnUMFVnHK8iXsztcyPMjQ3IWkiFgy5zyg1INyydelRlBwnWg4x6KcrvytN6w_Y61CDsT62SF67d5T9JWiQm4LwUIZe6r16KvqijxjzQbgcN6ZeA1GPRRPOU6d9uiaQYjzMrIATzSTUbfJMu7V1Ebnym4Bf_R3TnEbebEIY_rYKHlweHfAoM5GI1BTxgeOeNoWE6l_oxyF2i2Ew9YdqeAgq0mPe92P-dpHpGYFjavseVzR0Fli59xX_Ew46KPSjkj5ubut6NS9x2RZdH4KAUlcfne08HAATsurTtNQPAm7tJwrdzKuVnTHiKWzsDc1DgE44tQMzYTvoWlnoDvNMiiZv-NzMnghbNHhLf0QlUmyayp8dCaFHEms6HfEB3WIKv3J1NWI_wsj9tqoxSH8CnoS_YDARODsUOt1S3NrZymgsw_fhX7IIcvwZxKbUd6e0EaK8Uv4JcbgITzM4PhWPJGpUWDeB5avG0zH0rr67js0wpTw4rKycsjh_ZXWeDbYUUVTAymX9r2y5MPid3bGBUPcxZZKXCJJIJYSBAJiaGffCyQjB-PIEJPl_PFXWggKzgnO7W1uc3LOlTrtZa9zOzMc8WY2sU-Q4UxMkGmW_vouRcPH3BBA=w887-h665-no?authuser=0](https://lh3.googleusercontent.com/Ymb4DroySRAdStW9ZVSt7gZAjrDVspZXYTTmPf8sgqy7Q2iSPEShGswfaiXgnZ04uai3o3yPP9XlYwnUMFVnHK8iXsztcyPMjQ3IWkiFgy5zyg1INyydelRlBwnWg4x6KcrvytN6w_Y61CDsT62SF67d5T9JWiQm4LwUIZe6r16KvqijxjzQbgcN6ZeA1GPRRPOU6d9uiaQYjzMrIATzSTUbfJMu7V1Ebnym4Bf_R3TnEbebEIY_rYKHlweHfAoM5GI1BTxgeOeNoWE6l_oxyF2i2Ew9YdqeAgq0mPe92P-dpHpGYFjavseVzR0Fli59xX_Ew46KPSjkj5ubut6NS9x2RZdH4KAUlcfne08HAATsurTtNQPAm7tJwrdzKuVnTHiKWzsDc1DgE44tQMzYTvoWlnoDvNMiiZv-NzMnghbNHhLf0QlUmyayp8dCaFHEms6HfEB3WIKv3J1NWI_wsj9tqoxSH8CnoS_YDARODsUOt1S3NrZymgsw_fhX7IIcvwZxKbUd6e0EaK8Uv4JcbgITzM4PhWPJGpUWDeB5avG0zH0rr67js0wpTw4rKycsjh_ZXWeDbYUUVTAymX9r2y5MPid3bGBUPcxZZKXCJJIJYSBAJiaGffCyQjB-PIEJPl_PFXWggKzgnO7W1uc3LOlTrtZa9zOzMc8WY2sU-Q4UxMkGmW_vouRcPH3BBA=w887-h665-no?authuser=0 "Ymb4DroySRAdStW9ZVSt7gZAjrDVspZXYTTmPf8sgqy7Q2iSPEShGswfaiXgnZ04uai3o3yPP9XlYwnUMFVnHK8iXsztcyPMjQ3IWkiFgy5zyg1INyydelRlBwnWg4x6KcrvytN6w_Y61CDsT62SF67d5T9JWiQm4LwUIZe6r16KvqijxjzQbgcN6ZeA1GPRRPOU6d9uiaQYjzMrIATzSTUbfJMu7V1Ebnym4Bf_R3TnEbebEIY_rYKHlweHfAoM5GI1BTxgeOeNoWE6l_oxyF2i2Ew9YdqeAgq0mPe92P-dpHpGYFjavseVzR0Fli59xX_Ew46KPSjkj5ubut6NS9x2RZdH4KAUlcfne08HAATsurTtNQPAm7tJwrdzKuVnTHiKWzsDc1DgE44tQMzYTvoWlnoDvNMiiZv-NzMnghbNHhLf0QlUmyayp8dCaFHEms6HfEB3WIKv3J1NWI_wsj9tqoxSH8CnoS_YDARODsUOt1S3NrZymgsw_fhX7IIcvwZxKbUd6e0EaK8Uv4JcbgITzM4PhWPJGpUWDeB5avG0zH0rr67js0wpTw4rKycsjh_ZXWeDbYUUVTAymX9r2y5MPid3bGBUPcxZZKXCJJIJYSBAJiaGffCyQjB-PIEJPl_PFXWggKzgnO7W1uc3LOlTrtZa9zOzMc8WY2sU-Q4UxMkGmW_vouRcPH3BBA=w887-h665-no?authuser=0")
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-
-
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
+Picture above
