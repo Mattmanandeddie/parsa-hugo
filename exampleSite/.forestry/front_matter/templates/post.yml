@@ -8,6 +8,11 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: img
+  type: text
+  config:
+    required: false
+  label: image
 - type: file
   name: image
   label: image
@@ -26,3 +31,6 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
+pages:
+- exampleSite/config.toml
+- exampleSite/content/new-post.md
