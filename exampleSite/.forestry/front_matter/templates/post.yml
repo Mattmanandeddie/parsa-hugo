@@ -26,6 +26,3 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
-pages:
-- exampleSite/config.toml
-- exampleSite/content/new-post.md
