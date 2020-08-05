@@ -30,6 +30,7 @@ fields:
   description: 'type: post or featured'
 pages:
 - exampleSite/config.toml
+- exampleSite/content/abcdefg.md
 - exampleSite/content/new-post.md
 - exampleSite/content/new-title.md
 - exampleSite/content/title.md
