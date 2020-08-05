@@ -22,7 +22,7 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite
+  path: ''
   label: Configuration
   create: all
   match: "*.toml"
