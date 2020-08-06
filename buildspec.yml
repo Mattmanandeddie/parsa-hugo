@@ -19,7 +19,7 @@ phases:
       - pwd
   build:
     commands:
-      - hugo --themesDir ../..
+      - hugo --gc --themesDir ../..
 artifacts:
   files:
     - '**/*'
