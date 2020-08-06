@@ -18,7 +18,7 @@ phases:
       - pwd
   build:
     commands:
-      - cd exampleSite && hugo --gc --themesDir ../..
+      - cd exampleSite && hugo --gc
 artifacts:
   files:
     - '**/*'
