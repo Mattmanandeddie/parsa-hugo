@@ -19,9 +19,13 @@ phases:
   build:
     commands:
       - cd exampleSite && hugo --gc
+  post_build:
+    commands:
+      - pwd
+      - ls -la
 artifacts:
   files:
-    - 'exampleSite/*'
+    - '**/*'
   base-directory: public
   #discard-paths: yes
   
