@@ -23,4 +23,5 @@ artifacts:
   files:
     - '**/*'
   base-directory: exampleSite/public
+  discard-paths: yes
   
