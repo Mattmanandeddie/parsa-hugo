@@ -23,6 +23,7 @@ phases:
     commands:
       - pwd
       - ls -la
+      - mv public/ ../
 artifacts:
   files:
     - '**/*'
