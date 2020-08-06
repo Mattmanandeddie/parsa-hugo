@@ -21,7 +21,7 @@ phases:
       - cd exampleSite && hugo --gc
 artifacts:
   files:
-    - '**/*'
-  base-directory: exampleSite/public
-  discard-paths: yes
+    - 'exampleSite/*'
+  base-directory: public
+  #discard-paths: yes
   
